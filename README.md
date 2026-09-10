@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm an Integrated MCA student interested in progra
 🚀 Learning by building projects
 🛠️ Tech Stack
 💻 Languages
-<p> <img src="xyz.pvt" alt="This is panda image" /> </p>
 🗄️ Database
 <p> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> </p>
 🔧 Tools
