@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://www.linkedin.com/in/rifa-khan-0ba74242b?utm_source=share_via&utm_content=profile&utm_medium=member_android"/>
+  <img src="https://www.geeksforgeeks.org/profile/rifakg4kk"/>
   
 🎓 Integrated MCA Student | 🐍 Python | 🗄️ SQL | 💻 C (Learning)
 
