@@ -1,5 +1,9 @@
 👋 Hi, I'm Rifa Khan
 
+
+<p align="center">
+  <img src="https://www.linkedin.com/in/rifa-khan-0ba74242b?utm_source=share_via&utm_content=profile&utm_medium=member_android"/>
+  
 🎓 Integrated MCA Student | 🐍 Python | 🗄️ SQL | 💻 C (Learning)
 
 🌱 Learning • 💡 Building • 🚀 Growing
@@ -79,7 +83,6 @@ I'll be using it to share:
 🤝 Let's Connect
 
 
-my linkedin profile 
 
 I'm always interested in learning, collaborating, and connecting with fellow students and developers.
 
