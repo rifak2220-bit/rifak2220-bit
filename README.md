@@ -2,8 +2,13 @@
 
 
 <p align="center">
-  <img src="https://www.linkedin.com/in/rifa-khan-0ba74242b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <img src="https://www.linkedin.com/in/rifa-khan-0ba74242b/">
   <img src="https://www.geeksforgeeks.org/profile/rifakg4kk">
+</p>
+
+<p align ="center">
+  <img src= "https://www.hackerrank.com/profile/rifak2220">
+  <img src= "https://leetcode.com/u/Rifaaaaaa/">
   
 🎓 Integrated MCA Student | 🐍 Python | 🗄️ SQL | 💻 C (Learning)
 
